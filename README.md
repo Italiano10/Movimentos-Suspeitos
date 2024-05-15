@@ -2,9 +2,15 @@
 
 ## 1. Como iniciar o aplicativo?
 
+
 ### Passos:
-1. **Clique no main.exe**: Este é o arquivo executável do aplicativo.
-2. **Nova Sessão**: Dentro do aplicativo, clique no botão **"Nova sessão +"** para começar.
+
+1. **Faça download do app**: https://mega.nz/folder/jQpw1RAI#TjkRRk_2Q8OSwQ0Ka0LK9w
+2. Extraia o .zip
+3. Crie um atalho para a área de trabalho se quiser.
+
+4. **Clique no main.exe**: Este é o arquivo executável do aplicativo.
+5. **Nova Sessão**: Dentro do aplicativo, clique no botão **"Nova sessão +"** para começar.
 
 ## 2. Como preencher o formulário?
 
