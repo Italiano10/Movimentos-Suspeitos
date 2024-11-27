@@ -76,4 +76,7 @@ Se você tiver outras dúvidas ou problemas, por favor, entre em contato com o s
 
 Se você tiver outras dúvidas ou problemas, por favor, entre em contato com o suporte técnico através do email fornecido ou pelo bot de Telegram.
 
-**suporte**: shoppfy1@gmail.com
+**suporte**: contato@outboxs.com.br
+
+![image](https://github.com/user-attachments/assets/3f638852-5cd0-4a50-b199-806294cfab39)
+
